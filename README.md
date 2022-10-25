@@ -48,6 +48,8 @@ Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 Para visualizar o layout do projeto crie ou acesse sua conta no [Figma](https://figma.com) e [desse link](https://www.figma.com/community/file/1102912263666619803) para acessá-lo.
 
+![ConsultoriClinica](https://github.com/issufibadji/doctorCare/blob/master/doctorCare1.png)
+
 ## :memo: Licença
 
 Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/issufibadji/doctorCare/blob/master/LICENSE) para obter mais informações.
@@ -55,4 +57,3 @@ Este projeto esta sobe a licença MIT. Consulte a [LICENÇA](https://github.com/
 ---
 
 Desenvolvido por :heart: por Issufi Badji
-
